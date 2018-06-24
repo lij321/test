@@ -14,3 +14,8 @@ d = c
 
 print(d)
 
+def fun()
+    print("*"*5)
+
+fun()
+
